@@ -4,6 +4,7 @@ study project
 
 - [造轮子参考](#造轮子参考) 
 - [博客参考](#博客参考) 
+- [node](#node) 
 
 
 ## 造轮子参考
@@ -18,3 +19,7 @@ study project
 ## 博客参考 
 
 - [ 使用 koa ,vue 和 mongo 搭建的博客页面](https://github.com/Ma63d/kov-blog)
+## node
+
+### 开发工具
+- [nodemon](https://github.com/remy/nodemon)监听文件改变，automatically node application
