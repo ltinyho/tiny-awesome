@@ -5,6 +5,7 @@ study project
 - [造轮子参考](#造轮子参考) 
 - [博客参考](#博客参考) 
 - [node](#node) 
+- [会计类](#会计类)
 
 
 ## 造轮子参考
@@ -23,3 +24,5 @@ study project
 
 ### 开发工具
 - [nodemon](https://github.com/remy/nodemon)监听文件改变，automatically node application
+### 会计类
+- [accounting.js](https://github.com/openexchangerates/accounting.js)数字、金额转换
