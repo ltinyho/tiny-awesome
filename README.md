@@ -18,6 +18,7 @@ study project
 
 - [draggabilly](https://github.com/desandro/draggabilly) 拖动
 - [photoswipe](https://github.com/dimsemenov/PhotoSwipe) 图片预览
+- [list.js](https://github.com/javve/list.js) 排序、筛选、过滤
 ## 博客参考 
 
 - [ 使用 koa ,vue 和 mongo 搭建的博客页面](https://github.com/Ma63d/kov-blog)
